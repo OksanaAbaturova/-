@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcConsole", "CalcConsole\CalcConsole.csproj", "{A762E478-DE07-4A82-BE30-023F7ADE5656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCalcConsole", "TestCalcConsole\TestCalcConsole.csproj", "{2219BADE-43DB-485B-8BF0-30AF60280EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A762E478-DE07-4A82-BE30-023F7ADE5656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A762E478-DE07-4A82-BE30-023F7ADE5656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A762E478-DE07-4A82-BE30-023F7ADE5656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A762E478-DE07-4A82-BE30-023F7ADE5656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2219BADE-43DB-485B-8BF0-30AF60280EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2219BADE-43DB-485B-8BF0-30AF60280EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2219BADE-43DB-485B-8BF0-30AF60280EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2219BADE-43DB-485B-8BF0-30AF60280EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
